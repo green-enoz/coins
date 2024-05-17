@@ -27,14 +27,14 @@
 ## <a id="title1"> Разделение монет на монетные дворы и  редкие монеты</a>
 Откройте каталог, нажмите настройки и включите пункты “Делить на монетные дворы” и “Показывать редкие монеты”
 
-<img src="/images/pasted_image_0.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_0.png" alt="Скриншот" width="400"/>
 
 ## <a id="title2"> Проблемы с каталогом (не хватает монет, задваивается количество и пр.)</a>
 Зайдите в каталог, нажмите настройки, выберите пункт “Удалить каталог” (иногда называется "Сбросить каталог"). Потом снова его скачайте.
 
 <img src="https://green-enoz.github.io/coins/images/pasted_image_1.png" alt="Скриншот" width="400"/>
 
-<img src="/images/pasted_image_2.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_2.png" alt="Скриншот" width="400"/>
 
 Если не помогло напишите на coins@mycoins-app.ru и приложите скриншот каталога с проблемой.
 
@@ -46,9 +46,9 @@
 У каждой монеты есть кнопка “Обмен”. При ее нажатии открывается список пользователей, которые   ищут  эту монету или  предлагают   ее.
 Можно добавить свое предложение по обмену нажав кнопку “Добавить предложение”
 
-<img src="/images/pasted_image_3.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_3.png" alt="Скриншот" width="400"/>
 
-* <img src="/images/pasted_image_4.png" alt="Скриншот" width="50"/> Пользователи, не заходившие в приложение более 3х месяцев, отмечаются серым смайликом.
+* <img src="https://green-enoz.github.io/coins/images/pasted_image_4.png" alt="Скриншот" width="50"/> Пользователи, не заходившие в приложение более 3х месяцев, отмечаются серым смайликом.
 
 * Предложения у пользователей, не заходивших в приложение более 1 года, удаляются.
 
@@ -56,15 +56,15 @@
 <img src="/images/pasted_image_5.png" alt="Скриншот" width="400"/>
 В зависимости от наличия у вас монет, приложение подсвечивает возможно интересные вам предложения. Возможные следующие обозначения монет:
 
-* <img src="/images/pasted_image_6.png" alt="Скриншот" width="50"/> Пользователь ищет монету, у вас ее нет
+* <img src="https://green-enoz.github.io/coins/images/pasted_image_6.png" alt="Скриншот" width="50"/> Пользователь ищет монету, у вас ее нет
 
-* <img src="/images/pasted_image_7.png" alt="Скриншот" width="50"/> Пользователь ищет монету, вас в коллекции 2 и более экземпляра
+* <img src="https://green-enoz.github.io/coins/images/pasted_image_7.png" alt="Скриншот" width="50"/> Пользователь ищет монету, вас в коллекции 2 и более экземпляра
 
-* <img src="/images/pasted_image_8.png" alt="Скриншот" width="50"/> Пользователь ищет монету, вас в коллекции 1 экземпляр
+* <img src="https://green-enoz.github.io/coins/images/pasted_image_8.png" alt="Скриншот" width="50"/> Пользователь ищет монету, вас в коллекции 1 экземпляр
 
-* <img src="/images/pasted_image_9.png" alt="Скриншот" width="50"/> Пользователь предлагает монету, у вас ее нет
+* <img src="https://green-enoz.github.io/coins/images/pasted_image_9.png" alt="Скриншот" width="50"/> Пользователь предлагает монету, у вас ее нет
 
-* <img src="/images/pasted_image_10.png" alt="Скриншот" width="50"/> Пользователь предлагает монету, у вас она есть
+* <img src="https://green-enoz.github.io/coins/images/pasted_image_10.png" alt="Скриншот" width="50"/> Пользователь предлагает монету, у вас она есть
 
 Если вам интересны предложения вы можете написать пользователю нажав кнопку “Написать сообщение” и договориться об обмене.
 Обратите внимание, на наличие у пользователя отзывов.
@@ -72,13 +72,13 @@
 ## <a id="title5"> Как перенести данные на новый телефон?</a>
 1. Необходимо на старом телефоне зайти в настройки, пункт “Резервное копирование”. Нажать “Сохранить на Google drive”.
 
-<img src="/images/pasted_image_11.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_11.png" alt="Скриншот" width="400"/>
 
-<img src="/images/pasted_image_12.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_12.png" alt="Скриншот" width="400"/>
 
 2. На новом телефоне залогиниться под той же учетной записью Google. Зайти в настройки приложения, пункт “Резервное копирование”. Нажать “Восстановить с Google drive”.
 
-<img src="/images/pasted_image_13.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_13.png" alt="Скриншот" width="400"/>
 
 Также можно восстановить резервную копию с телефона. Для этого в разделе “Резервный файл” необходимо нажать на кнопку “Импорт” и найти резервный файл вручную.
 
@@ -90,7 +90,7 @@
 
 Долгое нажатие на монете в каталоге, потом выделяете нужные монеты. Открываете меню (три точки вверху справа) и нажимаете [В альбом].
 
-<img src="/images/pasted_image_14.jpg" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_14.jpg" alt="Скриншот" width="400"/>
 
 ## <a id="title7"> Планируете добавлять новые каталоги?</a>
 Возможно.
@@ -99,17 +99,17 @@
 
 1. Заходим в раздел “Добавить каталог”, нажимаем “Новый каталог”, вводим название.
 
-<img src="/images/pasted_image_15.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_15.png" alt="Скриншот" width="400"/>
 
 2. Заходим в созданный каталог, нажимаем “+”
 3. Заполняем данные по монетам и добавляем картинки.
 Обязательны для заполнения поля: Название, Серия, Номинал, Дата выпуска, а также описания Аверса и Реверса
 
-<img src="/images/pasted_image_16.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_16.png" alt="Скриншот" width="400"/>
 
 4. После полного заполнения каталога заходим в созданный каталог - Настройки. Выбираем пункт “Опубликовать каталог”
 
-<img src="/images/pasted_image_17.png" alt="Скриншот" width="400"/>
+<img src="https://green-enoz.github.io/coins/images/pasted_image_17.png" alt="Скриншот" width="400"/>
 
 5. После загрузки каталог попадает в раздел “Незаконченные каталоги” (кнопка [ЕЩЕ] вверху справа в разделе “Все каталоги” ).
 
