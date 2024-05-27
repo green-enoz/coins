@@ -1,6 +1,6 @@
 # Справка по приложению Мои Монеты (Android)
 
-[Правила и условия использования приложения](https://docs.google.com/document/d/e/2PACX-1vR5IpQkJwB5cM_4fsI89cpvF4ZYYjU1LWBNkSrX2GYiT2jz-BYQhKxSeCLsapFWlfqaBkT5ylX4GitY/pub)
+[Правила и условия использования приложения](https://help.mycoins-app.ru/conditions/)
 
 ## Оглавление
 [Разделение монет на монетные дворы и  редкие монеты](#title1)
